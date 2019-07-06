@@ -4,6 +4,8 @@ O sinesp-bot torna possível a consulta automatizada à base de dados do SINESP 
 
 Esta é uma prova de conceito e oferece uma alternativa a bibliotecas como o [sinesp-client](https://github.com/victor-torres/sinesp-client/), que utilizam uma outra abordagem para obter acesso às APIs.
 
+![](demo.gif)
+
 
 ## O que é o SINESP
 
